@@ -1,0 +1,4 @@
+REVIEWBOARD_URL = "192.168.137.239"
+REPOSITORY = "Basic_C"
+BRANCH = "master"
+LAND_DEST_BRANCH = "master"
